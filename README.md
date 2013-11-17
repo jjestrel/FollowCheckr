@@ -1,4 +1,7 @@
 FollowCheckr
 ============
 
-A PHP coded follow back checker for Tumblr using nquinlan's PHP OAuth library written as a proof of concept that stores follower data on Tumblr rather than on a local database to minimize site load.
+Follow Checkr is a follow checker written in PHP that stores no data locally to minimize site load and was written as a proof of concept.
+
+[nquinlan's PHP OAuth library](https://github.com/nquinlan/Tumblr-OAuth) is used to handle OAuth and make requests to the tumbler API.
+
