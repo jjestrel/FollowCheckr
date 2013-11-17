@@ -5,3 +5,5 @@ Follow Checkr is a follow checker written in PHP that stores no data locally to 
 
 [nquinlan's PHP OAuth library](https://github.com/nquinlan/Tumblr-OAuth) is used to handle OAuth and make requests to the tumbler API.
 
+The session storing code is also provided by nquinlan's demo. The relevant code logic occurs in check.php and index.html demonstrates the capability of FollowCheckr.
+
